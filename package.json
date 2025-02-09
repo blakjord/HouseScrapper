@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@firebasegen/default-connector": "file:dataconnect-generated/js/default-connector",
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "puppeteer": "^24.2.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
