@@ -8,7 +8,7 @@ fi
 
 # Instala las librerías necesarias
 echo "Instalando axios, cheerio, puppeteer-extra y puppeteer-extra-plugin-stealth..."
-npm install axios cheerio puppeteer-extra puppeteer-extra-plugin-
+npm install axios cheerio puppeteer-extra puppeteer-extra-plugin-stealth
 npx puppeteer browsers install chrome
 npx puppeteer install --chrome
 
