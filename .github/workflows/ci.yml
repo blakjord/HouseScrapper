@@ -1,0 +1,27 @@
+name: Ejecutar Puppeteer Manualmente
+
+on:
+  workflow_dispatch:
+    inputs:
+      argumento:
+        description: 'Argumento opcional para el script'
+        required: false
+        default: ''
+
+jobs:
+  run-puppeteer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout del código
+        uses: actions/checkout@v4
+      
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependencias
+        run: npm install
+      
+      - name: Ejecutar Puppeteer
+        run: node script.js ${{ github.event.inputs.argumento }}
