@@ -8,11 +8,11 @@ const path = require('path');
 async function main() {
     try {
         const idealistaData = await idealista();
-        //const habitacliaData = await habitaclia();
+        const habitacliaData = await habitaclia();
         //console.log(habitacliaData);
-        const pathTxt = path.join(__dirname, "data", "dataHabitaclia.txt");
-        const data = fs.readFileSync(pathTxt, 'utf8');
-        const habitacliaData = JSON.parse(data);
+        //const pathTxt = path.join(__dirname, "data", "dataHabitaclia.txt");
+        //const data = fs.readFileSync(pathTxt, 'utf8');
+        //const habitacliaData = JSON.parse(data);
         const d1Data = await updateOrInsertHouses([...idealistaData, ...habitacliaData], 1);
 
         console.log(d1Data);
@@ -21,5 +21,4 @@ async function main() {
     }
 }
 
-// Ejecutar la función principal
 main();

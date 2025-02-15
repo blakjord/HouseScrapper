@@ -5,7 +5,7 @@ puppeteer.use(StealthPlugin());
 
 async function habitaclia() {
     const browser = await puppeteer.launch({
-        headless: false,
+        headless: true,
         args: [
             '--no-sandbox',
             '--disable-setuid-sandbox',
