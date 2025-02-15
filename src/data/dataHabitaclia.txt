@@ -1,0 +1,130 @@
+[
+  {
+    "id": "2236004070692",
+    "url": "https://www.habitaclia.comhttps://www.habitaclia.com/comprar-piso-en_venta_en_el_barrio_de_sant_pere_de_vallparadis_antic_poble_de_sant_pere-terrassa-i2236004070692.htm",
+    "price": "174.000 €",
+    "location": "Terrassa - Vallparadís - Antic Poble de Sant Pere",
+    "m2": 60,
+    "habitaciones": 2
+  },
+  {
+    "id": "2959003969314",
+    "url": "https://www.habitaclia.comhttps://www.habitaclia.com/comprar-piso-luminoso_con_terraza_en_el_corazon_de_cementiri_vell-terrassa-i2959003969314.htm",
+    "price": "225.000 €",
+    "location": "Terrassa - Cementiri Vell",
+    "m2": 67,
+    "habitaciones": 4
+  },
+  {
+    "id": "12644004344042",
+    "url": "https://www.habitaclia.comhttps://www.habitaclia.com/comprar-piso-excelente_planta_baja_3_hab_a_estrenar_calle_de_miquel_angel_14_torrent_d_en_pere_parres-terrassa-i12644004344042.htm",
+    "price": "210.000 €",
+    "location": "Terrassa - Torrent d'en Pere Parres",
+    "m2": 74,
+    "habitaciones": 3
+  },
+  {
+    "id": "12644004344043",
+    "url": "https://www.habitaclia.comhttps://www.habitaclia.com/comprar-piso-excelente_planta_baja_3_hab_a_estrenar_calle_de_miquel_angel_16_torrent_d_en_pere_parres-terrassa-i12644004344043.htm",
+    "price": "210.000 €",
+    "location": "Terrassa - Torrent d'en Pere Parres",
+    "m2": 74,
+    "habitaciones": 3
+  },
+  {
+    "id": "2959003969331",
+    "url": "https://www.habitaclia.comhttps://www.habitaclia.com/comprar-atico-en_planta_con_2_terrazas_sant_pere-terrassa-i2959003969331.htm",
+    "price": "246.500 €",
+    "location": "Terrassa - San Pere",
+    "m2": 74,
+    "habitaciones": 3
+  },
+  {
+    "id": "2959003969281",
+    "url": "https://www.habitaclia.comhttps://www.habitaclia.com/comprar-piso-precioso_en_el_centro_con_todas_las_comodidades_barri_del_centre-terrassa-i2959003969281.htm",
+    "price": "237.500 €",
+    "location": "Terrassa - Barri del Centre",
+    "m2": 72,
+    "habitaciones": 2
+  },
+  {
+    "id": "4886004298983",
+    "url": "https://www.habitaclia.comhttps://www.habitaclia.com/comprar-piso-venta_de_en_marinelo_bosch_31_cementiri_vell-terrassa-i4886004298983.htm",
+    "price": "240.000 €",
+    "location": "Terrassa - Cementiri Vell",
+    "m2": 115,
+    "habitaciones": 4
+  },
+  {
+    "id": "40727000000831",
+    "url": "https://www.habitaclia.comhttps://www.habitaclia.com/comprar-piso-en_a_reformar_zona_esportiva-terrassa-i40727000000831.htm",
+    "price": "89.000 €",
+    "location": "Terrassa - Zona Esportiva",
+    "m2": 65,
+    "habitaciones": 2
+  },
+  {
+    "id": "3319004021967",
+    "url": "https://www.habitaclia.comhttps://www.habitaclia.com/comprar-piso-atico_de_3_habitaciones_dobles_en_zona_universitaria_nuevo_a_est_plasa_catalunya_escola_industrial-terrassa-i3319004021967.htm",
+    "price": "229.000 €",
+    "location": "Terrassa - Plaça Catalunya - Escola Industrial",
+    "m2": 99,
+    "habitaciones": 3
+  },
+  {
+    "id": "2959003969313",
+    "url": "https://www.habitaclia.comhttps://www.habitaclia.com/comprar-piso-para_inversores_en_zona_universitaria_vallparadis_antic_poble_de_sant_pere-terrassa-i2959003969313.htm",
+    "price": "185.000 €",
+    "location": "Terrassa - Vallparadís - Antic Poble de Sant Pere",
+    "m2": 84,
+    "habitaciones": 4
+  },
+  {
+    "id": "3006003837718",
+    "url": "https://www.habitaclia.comhttps://www.habitaclia.com/comprar-duplex-calle_viladecavalls_can_boada-terrassa-i3006003837718.htm",
+    "price": "186.500 €",
+    "location": "Terrassa - Can Boada",
+    "m2": 69,
+    "habitaciones": 2
+  },
+  {
+    "id": "14586000001000",
+    "url": "https://www.habitaclia.comhttps://www.habitaclia.com/comprar-piso-excellent_oportunitat_al_mercat_de_sant_pere_sant_pere-terrassa-i14586000001000.htm",
+    "price": "256.900 €",
+    "location": "Terrassa - San Pere",
+    "m2": 102,
+    "habitaciones": 4
+  },
+  {
+    "id": "3492002810295",
+    "url": "https://www.habitaclia.comhttps://www.habitaclia.com/comprar-piso-con_ascensor_y_balcon_sant_pere-terrassa-i3492002810295.htm",
+    "price": "213.900 €",
+    "location": "Terrassa - San Pere",
+    "m2": 85,
+    "habitaciones": 3
+  },
+  {
+    "id": "12584000003561",
+    "url": "https://www.habitaclia.comhttps://www.habitaclia.com/comprar-duplex-se_vende_en_zona_esportiva_zona_esportiva-terrassa-i12584000003561.htm",
+    "price": "169.000 €",
+    "location": "Terrassa - Zona Esportiva",
+    "m2": 53,
+    "habitaciones": 2
+  },
+  {
+    "id": "2339004373910",
+    "url": "https://www.habitaclia.comhttps://www.habitaclia.com/comprar-piso-precios_pis_a_sant_pere_de_3_hab_abans_4_totalment_reformat_am_sant_pere-terrassa-i2339004373910.htm",
+    "price": "219.960 €",
+    "location": "Terrassa - San Pere",
+    "m2": 88,
+    "habitaciones": 3
+  },
+  {
+    "id": "40157000000016",
+    "url": "https://www.habitaclia.comhttps://www.habitaclia.com/obra_nueva-viviendas-en-terrassa/promo_40157000000016?geo=p&from=list&lo=56.htm",
+    "price": "299.000 €",
+    "location": "Terrassa - Vallparadís - Antic Poble de Sant Pere",
+    "m2": 157,
+    "habitaciones": "No disponible"
+  }
+]

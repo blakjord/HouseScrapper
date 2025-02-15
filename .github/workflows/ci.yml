@@ -1,6 +1,8 @@
 name: Ejecutar Puppeteer Manualmente
 
 on:
+  schedule:
+    - cron: '0 15 * * 5' # Every Friday at 15:00 UTC
   workflow_dispatch:
     inputs:
       argumento:
@@ -11,6 +13,11 @@ on:
 jobs:
   run-puppeteer:
     runs-on: ubuntu-latest
+    env:
+      KEY_CLOUDFLARE: ${{ secrets.KEY_CLOUDFLARE }}
+      ACCOUNT_ID_CLOUDFLARE: ${{ secrets.ACCOUNT_ID_CLOUDFLARE }}
+      DATABASE_ID_CLOUDFLARE: ${{ secrets.DATABASE_ID_CLOUDFLARE }}
+
     steps:
       - name: Checkout del código
         uses: actions/checkout@v4
@@ -24,4 +31,4 @@ jobs:
         run: npm install
       
       - name: Ejecutar Puppeteer
-        run: node main.js
+        run: npm run start
