@@ -30,6 +30,23 @@ async function executeCloudflareQuery(sql) {
   }
 }
 
+// Función para obtener el Token de Telegram
+async function getTokenTelegram(UserID) {
+  const sql = `SELECT TokenTelegram 
+               FROM Users
+               WHERE UserID = ${UserID} LIMIT 1`;
+  try {
+    const result = await executeCloudflareQuery(sql);
+    if (result.success) {
+      return result.result[0].results[0].TokenTelegram; // Devuelve el arreglo de casas
+    }
+    return false;
+  } catch (error) {
+    console.error("Error al obtener el Token de Telegram desde Cloudflare:", error);
+    return false;
+  }
+}
+
 // Función para validar y limpiar el precio
 function validateAndCleanPrice(price) {
   const cleanedPrice = price.trim().replace('€', '').replace(/\./g, '').replace(/\s+/g, '');
@@ -176,4 +193,4 @@ async function insertHouses(houses) {
 }
 
 
-module.exports = { updateOrInsertHouses };
+module.exports = { updateOrInsertHouses, getTokenTelegram };
